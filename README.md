@@ -11,7 +11,7 @@ Clone the repository
 ```
   git clone https://github.com/henry252525/AstroScam.git
 ```
-Open you command line and `cd` to where you cloned the repository. Run the script and follow instructions
+Open your command line and `cd` to where you cloned the repository. Run the script and follow instructions
 ```
   ruby scam.rb
 ```
